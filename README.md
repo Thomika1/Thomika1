@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Thomika1/Thomika1/output/snake.svg" alt="Snake animation" />
+
 
 ###
