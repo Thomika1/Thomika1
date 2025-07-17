@@ -3,7 +3,9 @@
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBkYWxuM24zYnR2Mnk0YWczYXIzZHY1Nm8yazlsNms4ZTV3dnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf1RA1jNSpbbuDE40m/giphy.gif"  />
 
 # Olá 👋! Sou o Thomaz Maldonado
-### Estudante de Engenharia de Computação & Desenvolvedor
+ Estudante de Engenharia de Computação na UTFPR & Desenvolvedor estagiário
+ 
+ Computer Engineering student at UTFPR and Developer intern
 
 <br>
 
