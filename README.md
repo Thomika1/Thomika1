@@ -5,7 +5,7 @@
 # Olá 👋! Sou o Thomaz Maldonado
  Estudante de Engenharia de Computação na UTFPR & Desenvolvedor estagiário
  
- Computer Engineering student at UTFPR and Developer intern
+ Computer Engineering student at UTFPR and Software Development intern
 
 <br>
 
